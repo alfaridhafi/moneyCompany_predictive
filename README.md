@@ -2,7 +2,7 @@
 
 ### Domain Proyek
 
-Domain yang saya pilih adalah tentang keuangan, dan judulnya adalah moneyCompany_predictive Analysis
+Domain yang saya pilih adalah tentang keuangan, dan judulnya adalah moneyCompany_Predictive Analytics
 
 #### Latar Belakang
 
